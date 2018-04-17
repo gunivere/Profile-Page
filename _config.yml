@@ -1,2 +1,4 @@
 title: Jennifer Joseph, Documentarian Extraordinaire
 markdown: kramdown
+theme: jekyll-theme-slate
+gem "github-pages", group: :jekyll_plugins
