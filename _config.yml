@@ -1,6 +1,7 @@
 #Jekyll configuration
 name: Jennifer Joseph, Documentarian Extraordinaire
 description: Chronicle of my adventures in documentation
+url: "http://jenniferjoseph.github.io
 markdown: kramdown
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
