@@ -5,4 +5,4 @@ url: "http://jenniferjoseph.github.io"
 markdown: kramdown
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
-highlighter: rouge
+ 
