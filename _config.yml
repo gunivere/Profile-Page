@@ -1,4 +1,7 @@
-title: Jennifer Joseph, Documentarian Extraordinaire
+#Jekyll configuration
+name: Jennifer Joseph, Documentarian Extraordinaire
+description: Chronicle of my adventures in documentation
 markdown: kramdown
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
+highlighter: rougr
